@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.banner {
+    width: 100%;
+    height: 90vh;
+
+    background-image:linear-gradient(0, rgba(92, 77, 66, 0.8),  rgba(92, 77, 66, 0.8)) ,url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} 
+.banner-button{
+    background-color: rgb(237, 82, 26);
+    
+}
+
+.divider{
+width: 7%;
+height: 5px;
+background-color: orangered;
+opacity: 1;
+margin: auto;
+
+}
+
+
+.started{
+    background-color:rgb(237, 82, 26);
+}
+
+
+.divider2{
+    width: 4%;
+    height: 3px;
+    background-color: white;
+    opacity: 1;
+    margin: auto;
+    
+    }
+
+.btn-fm{
+    padding: 1rem 2rem;
+    border:none;
+    border-radius: 30rem;
+}
+ 
+
+.btn-gt{
+    padding: 1rem 2rem;
+    border:none;
+    border-radius: 30rem;
+}
+
+.Atyourservices{
+    padding: 2rem 0;
+}
+
+.download-content{
+    padding: 5rem 0;
+}
+
+
+.btn-dl{
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 30rem;
+}
