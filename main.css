@@ -61,9 +61,35 @@ margin: auto;
     padding: 2rem 0;
 }
 
+.divider3{
+    width: 4%;
+    height: 3px;
+    background-color:orangered;
+    opacity: 1;
+    margin: auto;
+    
+    }
+
+
 .download-content{
     padding: 5rem 0;
 }
+
+.download-content-btn{
+    padding: 3rem 0;
+}
+
+
+
+.divider4{
+    width: 4%;
+    height: 3px;
+    background-color:orangered;
+    opacity: 1;
+    margin: auto;
+    
+    }
+
 
 
 .btn-dl{
